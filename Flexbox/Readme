@@ -1,0 +1,1 @@
+This HTML code creates a neat pricing table using Flexbox for layout, including three pricing plans: Basic, Standard, and Premium. The layout is responsive, adjusting the plans from a horizontal row to a vertical stack on smaller screens (below 1250px width).
